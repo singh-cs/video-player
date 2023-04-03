@@ -1,5 +1,5 @@
 # video-player
-## React practice project 5
+## React practice project 6
 
 This project was built to practice my react using examples from [freeCodeCamp][def]
 
